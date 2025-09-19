@@ -7,4 +7,4 @@ document.getElementById('DateFinder').addEventListener('click', function() {
  
  document.getElementById('DateClear').addEventListener('click', function() {
             document.getElementById('ShowDate').textContent = ''; 
-        });      
+        });       
