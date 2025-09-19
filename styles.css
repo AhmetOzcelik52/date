@@ -2,8 +2,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}  
-
+}
+   
 .container {
   background-color: rgb(164, 150, 150);
   margin-top: 100px; 
